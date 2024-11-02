@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    @apply text-5xl; /* Specific styles for h1 */
+}
+
+h2 {
+    @apply text-4xl; /* Specific styles for h2 */
+}
+
+h3 {
+    @apply text-3xl; /* Specific styles for h2 */
+}
+
+p {
+    @apply text-lg; /* Specific styles for h2 */
+}
